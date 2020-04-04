@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">funtest</string>
+    <string name="name_cell_dead">Мёртвая</string>
+    <string name="description_cell_dead">или прикидывается</string>
+    <string name="name_cell_living">Живая</string>
+    <string name="description_cell_living">и шевелится!</string>
+    <string name="name_life">Жизнь</string>
+    <string name="description_life">Ку-ку!</string>
+    <string name="screen_title">Клеточное наполнение</string>
+    <string name="generate_button_text">СОТВОРИТЬ</string>
+</resources>
